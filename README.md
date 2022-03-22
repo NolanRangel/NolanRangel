@@ -40,11 +40,11 @@
 </p>
 <h2 style="text-decoration: underline">Contact Me:</h2>
 <p align="center">
-    <a href="mailto:nolanrangel@yahoo.com?subject=Hello from your GitHub page!" target="_blank" rel="noopener noreferrer">
+    <a href="mailto:rangelnolan9@gmail.com?subject=Hello from your GitHub page!" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=E45139"/>
     </a>
     <a href="https://www.linkedin.com/in/nolan-rangel/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
     </a>
-    <a href="https://discordapp.com/users/441066200286494720" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-DISCORD-444444?style=for-the-badge&logo=discord&logoColor=7289DA"/>
+    <a href="https://discordapp.com/users/Nolan_Rangel#0188" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-DISCORD-444444?style=for-the-badge&logo=discord&logoColor=7289DA"/>
     </a>
 </p>
