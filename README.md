@@ -39,6 +39,9 @@
 <p align="center" style="border-bottom: 1px solid gray; padding-bottom: 40px"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NolanRangel&show_icons=true&locale=en&layout=compact&theme=merko&line_height=0"> 
 </p>
+<p align="center">
+   <img src="https://activity-graph.herokuapp.com/graph?username=mariamcbride&theme=material-palenight" width="800">
+</p>
 <h2 style="text-decoration: underline">Contact Me:</h2>
 <p align="center">
     <a href="mailto:rangelnolan9@gmail.com?subject=Hello from your GitHub page!" target="_blank" rel="noopener noreferrer">
