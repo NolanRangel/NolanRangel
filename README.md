@@ -37,7 +37,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanRangel&theme=merko&hide=html,css, shell">
 </p>
 <p align="center" style="border-bottom: 1px solid gray; padding-bottom: 40px"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NolanRangel&show_icons=true&locale=en&layout=compact&theme=merko&line_height=0"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NolanRangel&show_icons=true&locale=en&layout=compact&theme=merko"> 
 </p>
 <p align="center">
    <img src="https://activity-graph.herokuapp.com/graph?username=NolanRangel&theme=merko&line_height=0" width="800">
