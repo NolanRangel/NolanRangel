@@ -15,8 +15,9 @@
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript"/>
-    <img src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Python-F7F044?style=for-the-badge&logo=python&logoColor=3776AB"/>
+    <img src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-MYSQL-F29800?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
     <img src="https://img.shields.io/badge/-NODE.JS-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933"/>
@@ -26,9 +27,12 @@
     <img src="https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-SPRING-00793B?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
     <img src="https://img.shields.io/badge/-TOMCAT-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000000"/>
-    <img src="https://img.shields.io/badge/-VSCODE-333333?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badg&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MAVEN-C71A36.svg?&style=for-the-badge&logo=apache-maven"/>
+    <img src="https://img.shields.io/badge/JSP-323330.svg?&style=for-the-badge&logo=eclipse&logoColor=white"/>
     <img src="https://img.shields.io/badge/-SPRING TOOL SUITE-333333?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
-    <img src="https://img.shields.io/badge/-VSCode-282A36?style=for-the-badge&logo=visualstudiocode"/>
+    <img src="https://img.shields.io/badge/MVC-888888.svg?&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VSCODE-333333?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
     <img src="https://img.shields.io/badge/-Markdown-0e99da?style=for-the-badge&logo=markdown"/>
     <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github"/>
     <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
