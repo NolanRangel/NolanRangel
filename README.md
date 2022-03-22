@@ -1,3 +1,15 @@
+<h1 align="center" style="border-bottom: 1px solid gray">
+    <span style="font-size: 20px"><br>Welcome to my GitHub!</span>
+</h1>
+<h2 align="center" style="text-decoration: underline">About me:</h2>
+<div align="center">
+<p align="center">
+    I am an avid outdoorsman and an accomplished chef.<br>
+    
+</p>
+<p align="center">
+
+</p>
 <h2 style="padding-top: 20px; text-decoration: underline">Technologies</h2>
 <p align="center" style="border-bottom: 1px solid gray; padding: 20px 0 40px 0">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
