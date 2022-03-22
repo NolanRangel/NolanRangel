@@ -15,14 +15,9 @@
     <img src="https://img.shields.io/badge/-SPRING-00793B?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
     <img src="https://img.shields.io/badge/-TOMCAT-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-GODOT-FFFFFF?style=for-the-badge&logo=godotengine&logoColor=478CBF"/>
-    <img src="https://img.shields.io/badge/-Apache2-D22128?style=for-the-badge&logo=apache&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-GUNICORN-499848?style=for-the-badge&logo=gunicorn&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-VSCODE-333333?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
     <img src="https://img.shields.io/badge/-SPRING TOOL SUITE-333333?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
-    <img src="https://img.shields.io/badge/-ADOBE PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-INKSCAPE-000000?style=for-the-badge&logo=inkscape&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-BLENDER 3D-333333?style=for-the-badge&logo=blender&logoColor=F5792A"/>
+
     <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-GIT-181717?style=for-the-badge&logo=git&logoColor=F05032"/>
     <img src="https://img.shields.io/badge/-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
@@ -44,7 +39,5 @@
     <img src="https://img.shields.io/badge/-GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=E45139"/>
     </a>
     <a href="https://www.linkedin.com/in/nolan-rangel/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-    </a>
-    <a href="https://discordapp.com/users/Nolan_Rangel#0188" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-DISCORD-444444?style=for-the-badge&logo=discord&logoColor=7289DA"/>
     </a>
 </p>
