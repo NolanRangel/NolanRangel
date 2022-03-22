@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-SPRING-00793B?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
     <img src="https://img.shields.io/badge/-TOMCAT-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000000"/>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badg&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/MAVEN-C71A36.svg?&style=for-the-badge&logo=apache-maven"/>
     <img src="https://img.shields.io/badge/JSP-323330.svg?&style=for-the-badge&logo=eclipse&logoColor=white"/>
     <img src="https://img.shields.io/badge/-SPRING TOOL SUITE-333333?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
