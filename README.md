@@ -40,7 +40,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NolanRangel&show_icons=true&locale=en&layout=compact&theme=merko&line_height=0"> 
 </p>
 <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=mariamcbride&theme=material-palenight" width="800">
+   <img src="https://activity-graph.herokuapp.com/graph?username=NolanRangel&theme=merko&line_height=0" width="800">
 </p>
 <h2 style="text-decoration: underline">Contact Me:</h2>
 <p align="center">
