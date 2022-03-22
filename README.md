@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="" alt="githubbanner" border="0" width="800">
-</p>
 <h2 style="padding-top: 20px; text-decoration: underline">Technologies</h2>
 <p align="center" style="border-bottom: 1px solid gray; padding: 20px 0 40px 0">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
