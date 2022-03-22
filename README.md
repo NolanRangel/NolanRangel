@@ -14,9 +14,16 @@
     <img src="https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-SPRING-00793B?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
     <img src="https://img.shields.io/badge/-TOMCAT-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000000"/>
-    <img src="https://img.shields.io/badge/-GODOT-FFFFFF?style=for-the-badge&logo=godotengine&logoColor=478CBF"/>
     <img src="https://img.shields.io/badge/-VSCODE-333333?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
     <img src="https://img.shields.io/badge/-SPRING TOOL SUITE-333333?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
+      <img src="https://img.shields.io/badge/-VSCode-282A36?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/-Markdown-0e99da?style=for-the-badge&logo=markdown"/>
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/-Amazon AWS-E98610?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/-Figma-19B2F1?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/-Miro-F2C52D?style=for-the-badge&logo=miro"/>
+  <img src="https://img.shields.io/badge/-Trello-095ED9?style=for-the-badge&logo=trello"/>
 
     <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-GIT-181717?style=for-the-badge&logo=git&logoColor=F05032"/>
