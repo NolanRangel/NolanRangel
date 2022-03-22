@@ -43,7 +43,6 @@
     <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-GIT-181717?style=for-the-badge&logo=git&logoColor=F05032"/>
     <img src="https://img.shields.io/badge/-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-FIGMA-31A8FF?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
     <img src="https://img.shields.io/badge/-TRELLO-0052CC?style=for-the-badge&logo=trello&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-AMAZON AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=232F3E"/>
 </p>
