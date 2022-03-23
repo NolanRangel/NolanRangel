@@ -31,11 +31,7 @@
     <img src="https://img.shields.io/badge/-Figma-19B2F1?style=for-the-badge&logo=figma"/>
     <img src="https://img.shields.io/badge/-Miro-F2C52D?style=for-the-badge&logo=miro"/>
     <img src="https://img.shields.io/badge/-Trello-095ED9?style=for-the-badge&logo=trello"/>
-    <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-GIT-181717?style=for-the-badge&logo=git&logoColor=F05032"/>
     <img src="https://img.shields.io/badge/-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-TRELLO-0052CC?style=for-the-badge&logo=trello&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-AMAZON AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=232F3E"/>
 </p>
 <h2 style="padding-top: 20px; text-decoration: underline">GitHub Statistics</h2>
 <p align="center" style="padding-top: 20px">
