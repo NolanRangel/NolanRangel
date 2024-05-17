@@ -1,7 +1,7 @@
 <h1 align="center" style="border-bottom: 1px solid gray">
     <span style="font-size: 20px"><br>Welcome to my GitHub!</span>
 </h1>
-<h2 style="padding-top: 20px; text-decoration: underline">Technologies</h2>
+<!-- <h2 style="padding-top: 20px; text-decoration: underline">Technologies</h2>
 <p align="center" style="border-bottom: 1px solid gray; padding: 20px 0 40px 0">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/-Miro-F2C52D?style=for-the-badge&logo=miro"/>
     <img src="https://img.shields.io/badge/-Trello-095ED9?style=for-the-badge&logo=trello"/>
     <img src="https://img.shields.io/badge/-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
-</p>
+</p> -->
 <h2 style="padding-top: 20px; text-decoration: underline">GitHub Statistics</h2>
 <p align="center" style="padding-top: 20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=NolanRangel&show_icons=true&theme=merko&line_height=27" />
