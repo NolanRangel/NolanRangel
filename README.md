@@ -2,7 +2,7 @@
     <span style="font-size: 20px"><br>Welcome to my GitHub!</span>
 </h1>
 
-<h2 style="text-decoration: underline">Contact Me:</h2>
+<h2 style="text-decoration: underline; text-align: center;">Contact Me:</h2>
 <p align="center">
     <a href="mailto:rangelnolan9@gmail.com?subject=Hello from your GitHub page!" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=E45139"/>
